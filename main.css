@@ -15,10 +15,13 @@ p {
   font-size: 14px;
   font-family: Arial
 }
+<<<<<<< HEAD
 div {
   background-color: blue;
   text-align: right;
   }
+=======
+>>>>>>> 10d0bd629c916d5da9a4b1c77063fb29dfb7567e
 th, td {
  padding: 8px;
  text-align: left;
